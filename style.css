@@ -31,4 +31,16 @@ p{
     padding-bottom: 3px;
     margin-left: 10px;
     border-radius: 10px;
+    font-weight: 600;
+}
+.common-btn:hover{
+    background-color: rgba(248, 243, 243, 0.87);
+    color: black;
+}
+.footer{
+    color: white;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    justify-content: center;
 }
